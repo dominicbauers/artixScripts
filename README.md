@@ -1,1 +1,1 @@
-# artixScripts
+# awesomeArtix
